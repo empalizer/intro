@@ -1,0 +1,22 @@
+/*
+Normalizing
+*/
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*------------*/
+/*--Wrapper---*/
+/*------------*/
+#wrapper{
+	margin: 0 auto; 
+    width: 960px;
+    box-shadow: 0 4px 10px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+
